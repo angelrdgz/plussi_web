@@ -11,6 +11,10 @@ import { CoursesListComponent } from './courses/courses-list/courses-list.compon
 import { AppContentComponent } from './layouts/app-content/app-content.component';
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { CourseDetailComponent } from './courses/course-detail/course-detail.component';
+import { HomeComponent } from './home/home.component';
+import { ClassDetailComponent } from './classes/class-detail/class-detail.component';
+import { CallComponent } from './call/call.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +24,11 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AppBodyComponent,
     AppFooterComponent,
     CoursesListComponent,
-    AppContentComponent
+    AppContentComponent,
+    CourseDetailComponent,
+    HomeComponent,
+    ClassDetailComponent,
+    CallComponent
   ],
   imports: [
     BrowserModule,
