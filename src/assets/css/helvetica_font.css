@@ -4,7 +4,7 @@
 font-family: 'Helvetica Neue Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Italic'), url(assets/fonts/HelveticaNeueItalic.woff) format('woff');
+src: local('Helvetica Neue Italic'), url('HelveticaNeueItalic.woff') format('woff');
 }
 
 
@@ -12,7 +12,7 @@ src: local('Helvetica Neue Italic'), url(assets/fonts/HelveticaNeueItalic.woff) 
 font-family: 'Helvetica 35 Thin';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 35 Thin'), url(assets/fonts/HelveticaNeue-Thin.woff) format('woff');
+src: local('Helvetica 35 Thin'), url('HelveticaNeue-Thin.woff') format('woff');
 }
 
 
@@ -20,7 +20,7 @@ src: local('Helvetica 35 Thin'), url(assets/fonts/HelveticaNeue-Thin.woff) forma
 font-family: 'Helvetica 37 Thin Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 37 Thin Condensed'), url(assets/fonts/HelveticaNeue-ThinCond.woff) format('woff');
+src: local('Helvetica 37 Thin Condensed'), url('HelveticaNeue-ThinCond.woff') format('woff');
 }
 
 
@@ -28,7 +28,7 @@ src: local('Helvetica 37 Thin Condensed'), url(assets/fonts/HelveticaNeue-ThinCo
 font-family: 'Helvetica 37 Thin Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 37 Thin Condensed Oblique'), url(assets/fonts/HelveticaNeue-ThinCondObl.woff) format('woff');
+src: local('Helvetica 37 Thin Condensed Oblique'), url('HelveticaNeue-ThinCondObl.woff') format('woff');
 }
 
 
@@ -36,7 +36,7 @@ src: local('Helvetica 37 Thin Condensed Oblique'), url(assets/fonts/HelveticaNeu
 font-family: 'Helvetica 33 Thin Extended Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 33 Thin Extended Oblique'), url(assets/fonts/HelveticaNeue-ThinExtObl.woff) format('woff');
+src: local('Helvetica 33 Thin Extended Oblique'), url('HelveticaNeue-ThinExtObl.woff') format('woff');
 }
 
 
@@ -44,7 +44,7 @@ src: local('Helvetica 33 Thin Extended Oblique'), url(assets/fonts/HelveticaNeue
 font-family: 'Helvetica 36 Thin Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 36 Thin Italic'), url(assets/fonts/HelveticaNeue-ThinItalic.woff) format('woff');
+src: local('Helvetica 36 Thin Italic'), url('HelveticaNeue-ThinItalic.woff') format('woff');
 }
 
 
@@ -52,7 +52,7 @@ src: local('Helvetica 36 Thin Italic'), url(assets/fonts/HelveticaNeue-ThinItali
 font-family: 'Helvetica 43 Light Extended';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 43 Light Extended'), url(assets/fonts/HelveticaNeue-LightExt.woff) format('woff');
+src: local('Helvetica 43 Light Extended'), url('HelveticaNeue-LightExt.woff') format('woff');
 }
 
 
@@ -60,7 +60,7 @@ src: local('Helvetica 43 Light Extended'), url(assets/fonts/HelveticaNeue-LightE
 font-family: 'Helvetica 27 Ultra Light Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 27 Ultra Light Condensed'), url(assets/fonts/HelveticaNeue-UltraLigCond.woff) format('woff');
+src: local('Helvetica 27 Ultra Light Condensed'), url('HelveticaNeue-UltraLigCond.woff') format('woff');
 }
 
 
@@ -68,7 +68,7 @@ src: local('Helvetica 27 Ultra Light Condensed'), url(assets/fonts/HelveticaNeue
 font-family: 'Helvetica 23 Ultra Light Extended';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 23 Ultra Light Extended'), url(assets/fonts/HelveticaNeue-UltraLigExt.woff) format('woff');
+src: local('Helvetica 23 Ultra Light Extended'), url('HelveticaNeue-UltraLigExt.woff') format('woff');
 }
 
 
@@ -76,7 +76,7 @@ src: local('Helvetica 23 Ultra Light Extended'), url(assets/fonts/HelveticaNeue-
 font-family: 'Helvetica 47 Light Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 47 Light Condensed Oblique'), url(assets/fonts/HelveticaNeue-LightCondObl.woff) format('woff');
+src: local('Helvetica 47 Light Condensed Oblique'), url('HelveticaNeue-LightCondObl.woff') format('woff');
 }
 
 
@@ -84,7 +84,7 @@ src: local('Helvetica 47 Light Condensed Oblique'), url(assets/fonts/HelveticaNe
 font-family: 'Helvetica 43 Light Extended Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 43 Light Extended Oblique'), url(assets/fonts/HelveticaNeue-LightExtObl.woff) format('woff');
+src: local('Helvetica 43 Light Extended Oblique'), url('HelveticaNeue-LightExtObl.woff') format('woff');
 }
 
 
@@ -92,7 +92,7 @@ src: local('Helvetica 43 Light Extended Oblique'), url(assets/fonts/HelveticaNeu
 font-family: 'Helvetica 27 Ultra Light Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 27 Ultra Light Condensed Oblique'), url(assets/fonts/HelveticaNeue-UltraLigCondObl.woff) format('woff');
+src: local('Helvetica 27 Ultra Light Condensed Oblique'), url('HelveticaNeue-UltraLigCondObl.woff') format('woff');
 }
 
 
@@ -100,7 +100,7 @@ src: local('Helvetica 27 Ultra Light Condensed Oblique'), url(assets/fonts/Helve
 font-family: 'Helvetica 83 Heavy Extended';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 83 Heavy Extended'), url(assets/fonts/HelveticaNeue-HeavyExt.woff) format('woff');
+src: local('Helvetica 83 Heavy Extended'), url('HelveticaNeue-HeavyExt.woff') format('woff');
 }
 
 
@@ -108,7 +108,7 @@ src: local('Helvetica 83 Heavy Extended'), url(assets/fonts/HelveticaNeue-HeavyE
 font-family: 'Helvetica 53 Extended';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 53 Extended'), url(assets/fonts/HelveticaNeue-Extended.woff) format('woff');
+src: local('Helvetica 53 Extended'), url('HelveticaNeue-Extended.woff') format('woff');
 }
 
 
@@ -116,7 +116,7 @@ src: local('Helvetica 53 Extended'), url(assets/fonts/HelveticaNeue-Extended.wof
 font-family: 'Helvetica 85 Heavy';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 85 Heavy'), url(assets/fonts/HelveticaNeue-Heavy.woff) format('woff');
+src: local('Helvetica 85 Heavy'), url('HelveticaNeue-Heavy.woff') format('woff');
 }
 
 
@@ -124,7 +124,7 @@ src: local('Helvetica 85 Heavy'), url(assets/fonts/HelveticaNeue-Heavy.woff) for
 font-family: 'Helvetica 87 Heavy Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 87 Heavy Condensed'), url(assets/fonts/HelveticaNeue-HeavyCond.woff) format('woff');
+src: local('Helvetica 87 Heavy Condensed'), url('HelveticaNeue-HeavyCond.woff') format('woff');
 }
 
 
@@ -132,7 +132,7 @@ src: local('Helvetica 87 Heavy Condensed'), url(assets/fonts/HelveticaNeue-Heavy
 font-family: 'Helvetica 107 Extra Black Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 107 Extra Black Condensed'), url(assets/fonts/HelveticaNeue-ExtBlackCond.woff) format('woff');
+src: local('Helvetica 107 Extra Black Condensed'), url('HelveticaNeue-ExtBlackCond.woff') format('woff');
 }
 
 
@@ -140,7 +140,7 @@ src: local('Helvetica 107 Extra Black Condensed'), url(assets/fonts/HelveticaNeu
 font-family: 'Helvetica 57 Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 57 Condensed'), url(assets/fonts/HelveticaNeue-Condensed.woff) format('woff');
+src: local('Helvetica 57 Condensed'), url('HelveticaNeue-Condensed.woff') format('woff');
 }
 
 
@@ -148,7 +148,7 @@ src: local('Helvetica 57 Condensed'), url(assets/fonts/HelveticaNeue-Condensed.w
 font-family: 'Helvetica 63 Medium Extended';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 63 Medium Extended'), url(assets/fonts/HelveticaNeue-MediumExt.woff) format('woff');
+src: local('Helvetica 63 Medium Extended'), url('HelveticaNeue-MediumExt.woff') format('woff');
 }
 
 
@@ -156,7 +156,7 @@ src: local('Helvetica 63 Medium Extended'), url(assets/fonts/HelveticaNeue-Mediu
 font-family: 'Helvetica 55 Roman';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 55 Roman'), url(assets/fonts/HelveticaNeue-Roman.woff) format('woff');
+src: local('Helvetica 55 Roman'), url('HelveticaNeue-Roman.woff') format('woff');
 }
 
 
@@ -164,7 +164,7 @@ src: local('Helvetica 55 Roman'), url(assets/fonts/HelveticaNeue-Roman.woff) for
 font-family: 'Helvetica 83 Heavy Extended Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 83 Heavy Extended Oblique'), url(assets/fonts/HelveticaNeue-HeavyExtObl.woff) format('woff');
+src: local('Helvetica 83 Heavy Extended Oblique'), url('HelveticaNeue-HeavyExtObl.woff') format('woff');
 }
 
 
@@ -172,7 +172,7 @@ src: local('Helvetica 83 Heavy Extended Oblique'), url(assets/fonts/HelveticaNeu
 font-family: 'Helvetica 87 Heavy Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 87 Heavy Condensed Oblique'), url(assets/fonts/HelveticaNeue-HeavyCondObl.woff) format('woff');
+src: local('Helvetica 87 Heavy Condensed Oblique'), url('HelveticaNeue-HeavyCondObl.woff') format('woff');
 }
 
 
@@ -180,7 +180,7 @@ src: local('Helvetica 87 Heavy Condensed Oblique'), url(assets/fonts/HelveticaNe
 font-family: 'Helvetica 53 Extended Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 53 Extended Oblique'), url(assets/fonts/HelveticaNeue-ExtendedObl.woff) format('woff');
+src: local('Helvetica 53 Extended Oblique'), url('HelveticaNeue-ExtendedObl.woff') format('woff');
 }
 
 
@@ -188,7 +188,7 @@ src: local('Helvetica 53 Extended Oblique'), url(assets/fonts/HelveticaNeue-Exte
 font-family: 'Helvetica 107 Extra Black Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 107 Extra Black Condensed Oblique'), url(assets/fonts/HelveticaNeue-ExtBlackCondObl.woff) format('woff');
+src: local('Helvetica 107 Extra Black Condensed Oblique'), url('HelveticaNeue-ExtBlackCondObl.woff') format('woff');
 }
 
 
@@ -196,7 +196,7 @@ src: local('Helvetica 107 Extra Black Condensed Oblique'), url(assets/fonts/Helv
 font-family: 'Helvetica 57 Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 57 Condensed Oblique'), url(assets/fonts/HelveticaNeue-CondensedObl.woff) format('woff');
+src: local('Helvetica 57 Condensed Oblique'), url('HelveticaNeue-CondensedObl.woff') format('woff');
 }
 
 
@@ -204,7 +204,7 @@ src: local('Helvetica 57 Condensed Oblique'), url(assets/fonts/HelveticaNeue-Con
 font-family: 'Helvetica 86 Heavy Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 86 Heavy Italic'), url(assets/fonts/HelveticaNeue-HeavyItalic.woff) format('woff');
+src: local('Helvetica 86 Heavy Italic'), url('HelveticaNeue-HeavyItalic.woff') format('woff');
 }
 
 
@@ -212,7 +212,7 @@ src: local('Helvetica 86 Heavy Italic'), url(assets/fonts/HelveticaNeue-HeavyIta
 font-family: 'Helvetica 63 Medium Extended Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 63 Medium Extended Oblique'), url(assets/fonts/HelveticaNeue-MediumExtObl.woff) format('woff');
+src: local('Helvetica 63 Medium Extended Oblique'), url('HelveticaNeue-MediumExtObl.woff') format('woff');
 }
 
 
@@ -220,7 +220,7 @@ src: local('Helvetica 63 Medium Extended Oblique'), url(assets/fonts/HelveticaNe
 font-family: 'Helvetica 73 Bold Extended';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 73 Bold Extended'), url(assets/fonts/HelveticaNeue-BoldExt.woff) format('woff');
+src: local('Helvetica 73 Bold Extended'), url('HelveticaNeue-BoldExt.woff') format('woff');
 }
 
 
@@ -228,7 +228,7 @@ src: local('Helvetica 73 Bold Extended'), url(assets/fonts/HelveticaNeue-BoldExt
 font-family: 'Helvetica 73 Bold Extended Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 73 Bold Extended Oblique'), url(assets/fonts/HelveticaNeue-BoldExtObl.woff) format('woff');
+src: local('Helvetica 73 Bold Extended Oblique'), url('HelveticaNeue-BoldExtObl.woff') format('woff');
 }
 
 
@@ -236,7 +236,7 @@ src: local('Helvetica 73 Bold Extended Oblique'), url(assets/fonts/HelveticaNeue
 font-family: 'Helvetica 77 Bold Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 77 Bold Condensed Oblique'), url(assets/fonts/HelveticaNeue-BoldCondObl.woff) format('woff');
+src: local('Helvetica 77 Bold Condensed Oblique'), url('HelveticaNeue-BoldCondObl.woff') format('woff');
 }
 
 
@@ -244,7 +244,7 @@ src: local('Helvetica 77 Bold Condensed Oblique'), url(assets/fonts/HelveticaNeu
 font-family: 'Helvetica 93 Black Extended';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 93 Black Extended'), url(assets/fonts/HelveticaNeue-BlackExt.woff) format('woff');
+src: local('Helvetica 93 Black Extended'), url('HelveticaNeue-BlackExt.woff') format('woff');
 }
 
 
@@ -252,7 +252,7 @@ src: local('Helvetica 93 Black Extended'), url(assets/fonts/HelveticaNeue-BlackE
 font-family: 'Helvetica 95 Black';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 95 Black'), url(assets/fonts/HelveticaNeue-Black.woff) format('woff');
+src: local('Helvetica 95 Black'), url('HelveticaNeue-Black.woff') format('woff');
 }
 
 
@@ -260,7 +260,7 @@ src: local('Helvetica 95 Black'), url(assets/fonts/HelveticaNeue-Black.woff) for
 font-family: 'Helvetica 93 Black Extended Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 93 Black Extended Oblique'), url(assets/fonts/HelveticaNeue-BlackExtObl.woff) format('woff');
+src: local('Helvetica 93 Black Extended Oblique'), url('HelveticaNeue-BlackExtObl.woff') format('woff');
 }
 
 
@@ -268,7 +268,7 @@ src: local('Helvetica 93 Black Extended Oblique'), url(assets/fonts/HelveticaNeu
 font-family: 'Helvetica Neue UltraLight';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue UltraLight'), url(assets/fonts/HelveticaNeueUltraLight.woff) format('woff');
+src: local('Helvetica Neue UltraLight'), url('HelveticaNeueUltraLight.woff') format('woff');
 }
 
 
@@ -276,7 +276,7 @@ src: local('Helvetica Neue UltraLight'), url(assets/fonts/HelveticaNeueUltraLigh
 font-family: 'Helvetica Neue UltraLight Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue UltraLight Italic'), url(assets/fonts/HelveticaNeueUltraLightItal.woff) format('woff');
+src: local('Helvetica Neue UltraLight Italic'), url('HelveticaNeueUltraLightItal.woff') format('woff');
 }
 
 
@@ -284,7 +284,7 @@ src: local('Helvetica Neue UltraLight Italic'), url(assets/fonts/HelveticaNeueUl
 font-family: 'Helvetica 45 Light';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 45 Light'), url(assets/fonts/HelveticaNeue-Light.woff) format('woff');
+src: local('Helvetica 45 Light'), url('HelveticaNeue-Light.woff') format('woff');
 }
 
 
@@ -292,7 +292,7 @@ src: local('Helvetica 45 Light'), url(assets/fonts/HelveticaNeue-Light.woff) for
 font-family: 'Helvetica Neue Light';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Light'), url(assets/fonts/HelveticaNeueLight.woff) format('woff');
+src: local('Helvetica Neue Light'), url('HelveticaNeueLight.woff') format('woff');
 }
 
 
@@ -300,7 +300,7 @@ src: local('Helvetica Neue Light'), url(assets/fonts/HelveticaNeueLight.woff) fo
 font-family: 'Helvetica 47 Light Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 47 Light Condensed'), url(assets/fonts/helvetica-47-light-condensed-587ebd7b5a6f6.woff) format('woff');
+src: local('Helvetica 47 Light Condensed'), url('helvetica-47-light-condensed-587ebd7b5a6f6.woff') format('woff');
 }
 
 
@@ -308,7 +308,7 @@ src: local('Helvetica 47 Light Condensed'), url(assets/fonts/helvetica-47-light-
 font-family: 'Helvetica Neue Light Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Light Italic'), url(assets/fonts/HelveticaNeueLightItalic.woff) format('woff');
+src: local('Helvetica Neue Light Italic'), url('HelveticaNeueLightItalic.woff') format('woff');
 }
 
 
@@ -316,7 +316,7 @@ src: local('Helvetica Neue Light Italic'), url(assets/fonts/HelveticaNeueLightIt
 font-family: 'Helvetica 46 Light Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 46 Light Italic'), url(assets/fonts/helvetica-46-light-italic-587ebdb0ea724.woff) format('woff');
+src: local('Helvetica 46 Light Italic'), url('helvetica-46-light-italic-587ebdb0ea724.woff') format('woff');
 }
 
 
@@ -324,7 +324,7 @@ src: local('Helvetica 46 Light Italic'), url(assets/fonts/helvetica-46-light-ita
 font-family: 'Helvetica Neue Medium';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Medium'), url(assets/fonts/HelveticaNeueMedium.woff) format('woff');
+src: local('Helvetica Neue Medium'), url('HelveticaNeueMedium.woff') format('woff');
 }
 
 
@@ -332,7 +332,7 @@ src: local('Helvetica Neue Medium'), url(assets/fonts/HelveticaNeueMedium.woff) 
 font-family: 'Helvetica 67 Medium Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 67 Medium Condensed'), url(assets/fonts/HelveticaNeue-MediumCond.woff) format('woff');
+src: local('Helvetica 67 Medium Condensed'), url('HelveticaNeue-MediumCond.woff') format('woff');
 }
 
 
@@ -340,7 +340,7 @@ src: local('Helvetica 67 Medium Condensed'), url(assets/fonts/HelveticaNeue-Medi
 font-family: 'Helvetica 65 Medium';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 65 Medium'), url(assets/fonts/HelveticaNeue-Medium.woff) format('woff');
+src: local('Helvetica 65 Medium'), url('HelveticaNeue-Medium.woff') format('woff');
 }
 
 
@@ -348,7 +348,7 @@ src: local('Helvetica 65 Medium'), url(assets/fonts/HelveticaNeue-Medium.woff) f
 font-family: 'Helvetica 67 Medium Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 67 Medium Condensed Oblique'), url(assets/fonts/HelveticaNeue-MediumCondObl.woff) format('woff');
+src: local('Helvetica 67 Medium Condensed Oblique'), url('HelveticaNeue-MediumCondObl.woff') format('woff');
 }
 
 
@@ -356,7 +356,7 @@ src: local('Helvetica 67 Medium Condensed Oblique'), url(assets/fonts/HelveticaN
 font-family: 'Helvetica Neue Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Bold'), url(assets/fonts/HelveticaNeueBold.woff) format('woff');
+src: local('Helvetica Neue Bold'), url('HelveticaNeueBold.woff') format('woff');
 }
 
 
@@ -364,7 +364,7 @@ src: local('Helvetica Neue Bold'), url(assets/fonts/HelveticaNeueBold.woff) form
 font-family: 'Helvetica Neue Condensed Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Condensed Bold'), url(assets/fonts/HelveticaNeueCondensedBold.woff) format('woff');
+src: local('Helvetica Neue Condensed Bold'), url('HelveticaNeueCondensedBold.woff') format('woff');
 }
 
 
@@ -372,7 +372,7 @@ src: local('Helvetica Neue Condensed Bold'), url(assets/fonts/HelveticaNeueConde
 font-family: 'Helvetica 75 Bold Outline';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 75 Bold Outline'), url(assets/fonts/helvetica-75-bold-outline-587ebe00b76ba.woff) format('woff');
+src: local('Helvetica 75 Bold Outline'), url('helvetica-75-bold-outline-587ebe00b76ba.woff') format('woff');
 }
 
 
@@ -380,7 +380,7 @@ src: local('Helvetica 75 Bold Outline'), url(assets/fonts/helvetica-75-bold-outl
 font-family: 'Helvetica Neue Bold Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Bold Italic'), url(assets/fonts/HelveticaNeueBoldItalic.woff) format('woff');
+src: local('Helvetica Neue Bold Italic'), url('HelveticaNeueBoldItalic.woff') format('woff');
 }
 
 
@@ -388,7 +388,7 @@ src: local('Helvetica Neue Bold Italic'), url(assets/fonts/HelveticaNeueBoldItal
 font-family: 'Helvetica 97 Black Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 97 Black Condensed'), url(assets/fonts/HelveticaNeue-BlackCond.woff) format('woff');
+src: local('Helvetica 97 Black Condensed'), url('HelveticaNeue-BlackCond.woff') format('woff');
 }
 
 
@@ -396,7 +396,7 @@ src: local('Helvetica 97 Black Condensed'), url(assets/fonts/HelveticaNeue-Black
 font-family: 'Helvetica Neue Condensed Black';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Condensed Black'), url(assets/fonts/HelveticaNeueCondensedBlack.woff) format('woff');
+src: local('Helvetica Neue Condensed Black'), url('HelveticaNeueCondensedBlack.woff') format('woff');
 }
 
 
@@ -404,7 +404,7 @@ src: local('Helvetica Neue Condensed Black'), url(assets/fonts/HelveticaNeueCond
 font-family: 'Helvetica 97 Black Condensed Oblique';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 97 Black Condensed Oblique'), url(assets/fonts/HelveticaNeue-BlackCondObl.woff) format('woff');
+src: local('Helvetica 97 Black Condensed Oblique'), url('HelveticaNeue-BlackCondObl.woff') format('woff');
 }
 
 
@@ -412,5 +412,5 @@ src: local('Helvetica 97 Black Condensed Oblique'), url(assets/fonts/HelveticaNe
 font-family: 'Helvetica 96 Black Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 96 Black Italic'), url(assets/fonts/HelveticaBlkIt.woff) format('woff');
+src: local('Helvetica 96 Black Italic'), url('HelveticaBlkIt.woff') format('woff');
 }
