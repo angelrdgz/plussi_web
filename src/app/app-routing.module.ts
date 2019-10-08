@@ -4,6 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { AppContentComponent } from './layouts/app-content/app-content.component';
 import { LoginComponent } from './auth/login/login.component';
 import { CoursesListComponent } from './courses/courses-list/courses-list.component';
+import { HomeComponent } from './home/home.component';
 
 
 const routes: Routes = [
@@ -11,6 +12,11 @@ const routes: Routes = [
     path: 'admin',
     component: AppContentComponent,
     children: [
+      {
+        path: 'home',
+        component: HomeComponent,
+        pathMatch: 'full',
+      },
       {
         path: 'courses',
         component: CoursesListComponent,
