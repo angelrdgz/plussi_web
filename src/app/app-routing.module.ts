@@ -21,6 +21,7 @@ const routes: Routes = [
 
   //no layout routes
   { path: 'login', component: LoginComponent },
+  { path: '', redirectTo: 'login' },
   // otherwise redirect to home
   { path: '**', redirectTo: '' }
 ];
