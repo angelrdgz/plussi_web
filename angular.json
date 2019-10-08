@@ -28,7 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/assets/helvetica_font.css",
+              "src/assets/css/helvetica_font.css",
               "src/styles.scss",
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
@@ -90,7 +90,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/assets/helvetica_font.css",
+              "src/assets/css/helvetica_font.css",
               "src/styles.scss",
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
