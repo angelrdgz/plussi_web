@@ -10,6 +10,8 @@ import { AppFooterComponent } from './layouts/app-footer/app-footer.component';
 import { CoursesListComponent } from './courses/courses-list/courses-list.component';
 import { AppContentComponent } from './layouts/app-content/app-content.component';
 
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,7 +24,8 @@ import { AppContentComponent } from './layouts/app-content/app-content.component
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgbModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
