@@ -10,6 +10,14 @@
   h3.card-title {
     font-size: 16px;
   }
+
+  .flag{
+    width: 158px;
+    height: 158px;
+    display: block;
+    margin: 30px auto 20px;
+    object-fit: contain;
+  }
 }
 
 .card-shadow{

@@ -5,6 +5,7 @@ import { AppContentComponent } from './layouts/app-content/app-content.component
 import { LoginComponent } from './auth/login/login.component';
 import { CoursesListComponent } from './courses/courses-list/courses-list.component';
 import { HomeComponent } from './home/home.component';
+import { ClassDetailComponent } from './classes/class-detail/class-detail.component';
 
 
 const routes: Routes = [
@@ -20,6 +21,11 @@ const routes: Routes = [
       {
         path: 'courses',
         component: CoursesListComponent,
+        pathMatch: 'full',
+      },
+      {
+        path: 'teachers',
+        component: ClassDetailComponent,
         pathMatch: 'full',
       }
     ]
