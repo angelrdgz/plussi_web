@@ -15,6 +15,7 @@ import { CourseDetailComponent } from './courses/course-detail/course-detail.com
 import { HomeComponent } from './home/home.component';
 import { ClassDetailComponent } from './classes/class-detail/class-detail.component';
 import { CallComponent } from './call/call.component';
+import { TeacherDetailsComponent } from './teachers/teacher-details/teacher-details.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { CallComponent } from './call/call.component';
     CourseDetailComponent,
     HomeComponent,
     ClassDetailComponent,
-    CallComponent
+    CallComponent,
+    TeacherDetailsComponent
   ],
   imports: [
     BrowserModule,

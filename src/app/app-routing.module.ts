@@ -7,6 +7,8 @@ import { CoursesListComponent } from './courses/courses-list/courses-list.compon
 import { HomeComponent } from './home/home.component';
 import { ClassDetailComponent } from './classes/class-detail/class-detail.component';
 
+import { TeacherDetailsComponent } from './teachers/teacher-details/teacher-details.component';
+
 
 const routes: Routes = [
   {
@@ -27,6 +29,11 @@ const routes: Routes = [
         path: 'teachers',
         component: ClassDetailComponent,
         pathMatch: 'full',
+      },
+      {
+        path: 'teachers/:id',
+        component: TeacherDetailsComponent,
+        pathMatch: 'full'
       }
     ]
   },
